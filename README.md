@@ -1,16 +1,31 @@
-# Project Name
+# Odin landing page 
 
-> One paragraph statement about the project.
+> This is a odin project built with HTML and CSS to build a landing page .
 
-![screenshot](./app_screenshot.png)
+![Odin land](image.png)
 
 Additional description of the project and its features.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- Html elements,
+  - `div`
+  - `input`
+  - `footer`
+  - `header`
+  - `nav`
+  - `ul` `button`
+
+- CSS,
+  - `display`
+  - `padding`,
+  - `justify-content`
+  - `align-items`
+  - `background-color`
+
+- Linters
+   - [prettier](https://prettier.io/)
+   - [stylelint](https://stylelint.io)
 
 ## Live Demo
 
@@ -82,6 +97,9 @@ yarn axe
 - Linkedin: [@author](https://www.linkedin.com/in/author/)
 
 ## 🤝 Contributing
+
+Google Font
+FreeCodeCamp
 
 Contributions, issues and feature requests are welcome!
 
