@@ -8,7 +8,7 @@ body{
     font-family: "Roboto Serif", serif;
 }
 .section-one{
-    background-color: #32435a;
+    background-color: #1f2937;
 }
 #header{
     font-size: 24px;
@@ -17,7 +17,7 @@ body{
 }
 .header-link{
     font-size: 18px;
-    color: #d0d2d6;
+    color: #e5e7eb;
     margin: 10px;
 }
 .navbar{
@@ -68,7 +68,7 @@ h1{
  }
  .signup{
     border-radius: 10px;
-    background-color: rgb(60, 60, 241);
+    background-color:#3882f6;
     color: rgb(241, 236, 236);
     width: 100px;
     height: 30px;
@@ -174,7 +174,7 @@ font-size: 19px;
  }
  .signin{
     border-radius: 10px;
-    background-color: rgb(60, 60, 241);
+    background-color:#3882f6;
     color: rgb(255, 255, 255);
     width: 100px;
     height: 30px;
