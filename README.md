@@ -1,4 +1,4 @@
-# Odin landing page 
+# Odin landing page
 
 > This is a odin project built with HTML and CSS to build a landing page .
 
@@ -9,6 +9,7 @@ Additional description of the project and its features.
 ## Built With
 
 - Html elements,
+
   - `div`
   - `input`
   - `footer`
@@ -17,6 +18,7 @@ Additional description of the project and its features.
   - `ul` `button`
 
 - CSS,
+
   - `display`
   - `padding`,
   - `justify-content`
@@ -24,8 +26,8 @@ Additional description of the project and its features.
   - `background-color`
 
 - Linters
-   - [prettier](https://prettier.io/)
-   - [stylelint](https://stylelint.io)
+  - [prettier](https://prettier.io/)
+  - [stylelint](https://stylelint.io)
 
 ## Live Demo
 
